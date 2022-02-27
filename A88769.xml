@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The late victorious proceedings of Sir Thomas Fairfax against the enemy in the west. The Lord Hopton routed, dispersed and fled; seven peece of ordnance taken, and many prisoners. The earle of Berkeshire, the Lord Culpeper, the Lord Capell, Sir Edward Hide, Sir Thomas Fanshaw, and divers fled to the sea, and shipped with the Prince. A ship with the enemies best horses sunke, Hoptons traine of ammunition taken, and forty oxen. Sir Iohn Greenvill routed, with the taking of Saltash, Temple, and divers other forts and places of strength of the enemies: with a list of all the particulars. These letters, with the report of Mr. W. Curtis from the army made to the House of Commons, are examined and appointed to be printed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88769</idno>
+            <idno type="STC">Wing L560</idno>
+            <idno type="STC">Thomason E327_12</idno>
+            <idno type="STC">ESTC R200656</idno>
+            <idno type="EEBO-CITATION">99861338</idno>
+            <idno type="PROQUEST">99861338</idno>
+            <idno type="VID">113471</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88769)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113471)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E327[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The late victorious proceedings of Sir Thomas Fairfax against the enemy in the west. The Lord Hopton routed, dispersed and fled; seven peece of ordnance taken, and many prisoners. The earle of Berkeshire, the Lord Culpeper, the Lord Capell, Sir Edward Hide, Sir Thomas Fanshaw, and divers fled to the sea, and shipped with the Prince. A ship with the enemies best horses sunke, Hoptons traine of ammunition taken, and forty oxen. Sir Iohn Greenvill routed, with the taking of Saltash, Temple, and divers other forts and places of strength of the enemies: with a list of all the particulars. These letters, with the report of Mr. W. Curtis from the army made to the House of Commons, are examined and appointed to be printed according to order.</title>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Matthew Walbancke,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>9 March 1645. [1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1645[6]; Thomason catalogue lists under 1646.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hopton, Ralph Hopton, --  Baron, 1598-1652 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113471:1"/>
+            <pb facs="tcp:113471:1" rendition="simple:additions"/>
+            <p>The late victorious PROCEEDINGS OF Sir Thomas Fairfax Againſt the Enemy in the Weſt.</p>
+            <p>The Lord <hi>Hopton</hi> routed, diſperſed and fled; ſeven peece of Ordnance taken, and many Priſoners.</p>
+            <p>The Earle of <hi>Berkeſhire,</hi> the Lord <hi>Culpeper,</hi> the Lord <hi>Capell,</hi> Sir <hi>Edward Hide,</hi> Sir <hi>Thomas Fanſhaw,</hi> and divers fled to the Sea, and ſhipped with the PRINCE.</p>
+            <p>A Ship with the Enemies beſt Horſes ſunke, <hi>Hoptons</hi> traine of Ammunition taken, and forty Oxen.</p>
+            <p>Sir <hi>Iohn Greenvill</hi> routed, with the taking of <hi>Saltaſh, Temple,</hi> and divers other Forts and places of ſtrength of the Enemies: With a Liſt of all the Particulars.</p>
+            <p>Theſe Letters, with the Report of Mr. <hi>W. Curtis</hi> from the Army made to the Houſe of Commons, are examined and ap<g ref="char:EOLhyphen"/>pointed to the printed according to Order.</p>
+            <p>
+               <hi>London,</hi> printed for <hi>Matthew Walbancke,</hi> 9 March 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113471:2"/>
+            <pb n="1" facs="tcp:113471:2"/>
+            <head>SIR <hi>THOMAS FAIRFAX,</hi> HIS Victorious Proceedings againſt the Enemy in the Weſt.</head>
+            <opener>
+               <salute>SIR:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince our comming to Launceſton, the Intelligence and affaires of the Army may be thus repreſent<g ref="char:EOLhyphen"/>ed. On Thurſday, <hi>Febr.</hi> 26. (the day after our entrance,) the Ge<g ref="char:EOLhyphen"/>nerall ſent a Letter to Captaine <hi>Weldon</hi> to ſend all the Horſe he could ſpare, and as many Dragoones he could poſſi<g ref="char:EOLhyphen"/>ble, to advance up the River as farre as Liſton, to ſtay the paſſage at the Fords, that ſo our Horſe might the better overtake them, in caſe the Enemy indea<g ref="char:EOLhyphen"/>vour to eſcape, which probably they intend, and might doe in ſuch ſmall parcels, and with ſuch haſte, that his Horſe might fall upon them with good ſuc<g ref="char:EOLhyphen"/>ceſſe. Friday, <hi>February</hi> 27. we underſtood that the
+<pb n="2" facs="tcp:113471:3"/>Enemie was at Camelford that morning, and at Twilsborough Downe, two miles diſtant<g ref="char:punc">▪</g> from thence, towards the North-Eaſt, and a conſidera<g ref="char:EOLhyphen"/>ble partie of Horſe lay there that might: Their head Quarters remain at <hi>Bodman,</hi> from whence they have iſſued a <hi>Poſſe Comm.</hi> for appearance of all able men at <hi>Bodman</hi> on this Friday. Saturday, <hi>Febr.</hi> 28. the greateſt part of the Army marched from Launceſt<g ref="char:EOLhyphen"/>on to Lowenrick, but three miles, in regard there could be no conveniency of Quarters between that and Bodman. Our Information by our Scouts <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this day was. That the Enemie had drawne off their Guard from Twilsborough Downe, and that their Horſe were all gone from Hamelford in great feare to Bodman, where they attempted to get in, but the Foote refuſed to let them, have entrance, three of them were killed in this difference, <hi>Hopton</hi> went on Friday from Maſter <hi>Bellins</hi> houſe (where he quarter<g ref="char:EOLhyphen"/>ed before) to Bodman: The Enemy is reported to have a thouſand Foot, and a conſider<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Horſe, but their, Armes and courage but meane: They give out they will make a deſperate attempt, to breake through and leave the Corniſh in their in<g ref="char:EOLhyphen"/>kindneſſe, which is ſo great, that they are more rea<g ref="char:EOLhyphen"/>dy to diſarme them, then aſſiſt them: The Country people at Tawnes diſarmed eight of them, and the reſt of them about Camelford deſire our Army to come to ſecure them from the Enemy, who then for their non appearance, declared, they knew no greater Enemies then <hi>Gorings</hi> Horſe. The Ene<g ref="char:EOLhyphen"/>my publiſhed through the Country before our en<g ref="char:EOLhyphen"/>trance,
+<pb n="3" facs="tcp:113471:3"/>that we would deſtroy all, but ſince our com<g ref="char:EOLhyphen"/>ming into the Country (ſuch hath been the ſaire and orderly demeanour of our Souldiers,) they ſay they finde us friends rather then enemies, and admire in many places that we ſhould tender Money for our proviſions, which, (to uſe their owne expreſſion,) they never were wont to tange of <hi>Gorings</hi> men on the Lords day. March 1. the Generall and Lieute<g ref="char:EOLhyphen"/>nant Generall advanced all the whole Army to<g ref="char:EOLhyphen"/>wards Bodman, in the way had a Rendezvouze of Horſe and Foote upon the Downs, aboot ten miles from Launcerton, over which the Army marched compleatly in Batalia; (being indeed a brave appea<g ref="char:EOLhyphen"/>rance.) The Forlorne Hopes were ſent out, who met with the Enemies Scouts, two of them who were ſcouting in one Company, they ſeemed to be ignorant of our ſo neel approach, acknowledged that they were part of a Guard of 300. Horſe under Sir <hi>Tames Smith,</hi> that were to keepe a Guard within three miles of Bodman. Upon the Armies advance within foure miles of Bodman, we diſcovered two great Bodies of the Enemies Horſe, who faced us a while upon the top of an hill (though neare two, Miles diſtant) but a Party of a thouſand Horſe being ſent, towards them, and for the reliefe of Captaine <hi>Morgan</hi> and Captaine <hi>Farmers</hi> Compa<g ref="char:EOLhyphen"/>nies of Dragoones, who we then underſtood were engaged, and in great hazard to be loſt, the Ene<g ref="char:EOLhyphen"/>my being between them and our Rendezvouze; our Horſe no ſooner appeareth, but the Enemy poſteth away towards Bodman, our Dragoons alſo having
+<pb n="4" facs="tcp:113471:4"/>firſt made good their retreat into a Cloſe, defended themſelves gallantly there, and afterwards got into a Church, and ſo came off with the loſſe onely of foure Priſoners, ſlew divers of the Enemy; the Ar<g ref="char:EOLhyphen"/>my quartereth this night at St. Bliſſen, and all the Villages thereabouts, with ſo much advantage that its thought that Sir <hi>Iames Smiths</hi> Brigade will hardly get off; the faithfull, valiant, and religious Lievt. Generall <hi>Cromwell</hi> is all this night abroad with the Horſe, the iſſue we ſhall heare next morning; we had advanced this night to Bodman but that the Enemy is ſtrong in Horſe, and our Foot had ſome of them marched this day above 12. long miles moſt part of the Lords day (all night) our men brought in Priſo<g ref="char:EOLhyphen"/>ners, many of which ſay they are glad they are ta<g ref="char:EOLhyphen"/>ken, for they ſtill looke for it firſt or laſt, they gi<g ref="char:EOLhyphen"/>ving both themſelves and all their party for loſt. The Gentry generally have inclinations to come in, and ſend for Protections; the Lord <hi>Mohun</hi> is unwilling to obey the Lord <hi>Hoptons</hi> Commands. If the Enemy get not through, in probability we ſhall drive them into the corner of this County, and make them glad to accept of Conditions.</p>
+            <p>Munday, March the ſecond, the Army was this morning by breake of the day drawne to a Rendez<g ref="char:EOLhyphen"/>vouz upon the Heath within two miles of Bodman: a Party being ſent out to diſcover whether the Enemy were in the Towne, brought intelligence that both Horſe and Foot quit the Towne the laſt night. About ten of the Clock the Lord <hi>Hopton</hi> him<g ref="char:EOLhyphen"/>ſelfe brought up the Reare; their Foot (not above
+<pb n="5" facs="tcp:113471:4"/>foure hundred) being moſt of them Welch-men, went out diſorderly, wearing Leekes (it being <hi>Taffies</hi> day) and according to their wonted cuſtom were moſt of them drunke; a great part of the Horſe and Foot went towards Truro, the reſt of the Horſe towards Ware Bridges; to which if they ſteere their courſe they are like to meete with gallant entertainement from the Lord Generalls two Regiments of Horſe, and two Regiments more of Foot being ſent to his aſſiſtance; the Prince is at Pendennis Caſtle, and its ſuppoſed waites for a winde for France, we hope (through Gods bleſſing) in a few daies to give a good account of the clea<g ref="char:EOLhyphen"/>ring theſe parts of the Enemy, and if they be lookt after as well by Sea as they ſhall by Land, many of them will not be left to tell the ſtory of their ſad misfortunes: by which the whole Kingdome may take notice of the great zeale and earneſt affection of the Commanders in this Army for the welfare of their Country, and that they are unwearied in their paines and indeavours for the putting a more ſpeedy period to theſe inteſtine differences; for had the whole Army ſtayed before Exceſter, which-might have been as much as could be expected this Winter ſeaſon, the worke would have been much longer in doing; but as theſe reſolutions were un<g ref="char:EOLhyphen"/>expectedly taken, ſo the iſſue of them hath been beyond expectation. The Enemies chiefe power in the Iſland being diſſipated in about a Moneths ſpace, and ſcarce left all the face of an Army with out blood-ſhed, and the moſt malignant County
+<pb n="6" facs="tcp:113471:5"/>of the Kingdome reduced, and (if they be not un<g ref="char:EOLhyphen"/>parallel'd diſſemblers) the County generally endea<g ref="char:EOLhyphen"/>vours, and their hearts drawne to the Parliament, for (as before in other places) ſo now in Bodman the inhabitants were no waies terrified a tour com<g ref="char:EOLhyphen"/>ming, but rather manifeſted expreſſions of Joy, being ſo oppreſſed by <hi>Gorings</hi> Horſe taken from them. The Towneſ-men averre for truth, that at the Grand Paſſe held neare this Towne on Friday laſt there did not appeare foureſcore of the County, beſides <hi>Gorings</hi> and <hi>Hoptons</hi> Horſe; they generally report (but I durſt not aſſure it for certaine) that the Lord <hi>Mohun</hi> is under reſtraint for diſobeying the Lord <hi>Hoptons</hi> Gommands, this morning foure of our Troopers who went forth to ſcout in the Enemies quarters, tooke and brought away 42. of their foot Souldiers with their Armes. The Lord <hi>Hopton</hi> had this day a Randezvouz of neere 3500. Horſe at St. Dennis, a place ſixe miles from Bodman; the Corniſh this morning fired their Beacons, their intentions therein we are yet igno<g ref="char:EOLhyphen"/>rant of. This day ſixe of our Troopers fell into Liſlythell, and brought away foure of the Enemies carriages laden with Muskets, Powder, Bullets and other Ammunition; we have ſtore of Guns, Horſe, and Foot at all the paſſes about Bodman.</p>
+            <closer>
+               <dateline>Bodman <date>March 3. 1645. at 5. in the morning.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:113471:5"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving the opportunity of this Meſſenger, a friend of yours, I could not omit the writing unto you, as a returne of thanks for your candid and conſtant remembrance of me: I ſhall not trou<g ref="char:EOLhyphen"/>ble you with particulars of Newes, having written ſo largely to Maſter <hi>Scawen,</hi> of which I doubt not but you will have the peruſall, otherwiſe I ſhould redeeme ſome of that little time I have to write un<g ref="char:EOLhyphen"/>to you. Wee entred <hi>Bodman</hi> Monday, <hi>March</hi> 2. in the Morning, the Enemy quitted it, the Night before; at 10 of the clock, upon our approach neere it; the Lord <hi>Hopton</hi> himſelfe brought up the Reare; their Army is 3500 Horſe, and about 400 Foot, moſt of which are <hi>Welch,</hi> and were drunk when they went forth: wee keepe Guards at <hi>Warre. Bridge,</hi> and <hi>Liſtithell,</hi> to prevent their breaking through <hi>Eaſt-ward;</hi> ſix of our Troopers yeſterday entred <hi>Liſtithell,</hi> and tooke 4 Wain loads of the Enemies Amn uni<g ref="char:EOLhyphen"/>on, each drawn with 10 Oxen; they beat off the Guard that were to ſecure it; the Enemy had a Rendezvouz at Saint <hi>Dennis,</hi> 6 miles from hence, but durſt not
+<pb n="8" facs="tcp:113471:6"/>ſtay there long, but are gone towards <hi>Truro:</hi> the Prince is in <hi>Pendennis,</hi> expecting a faire wind for <hi>France,</hi> wee hope ſoone to make an end of our work in theſe parts through Gods bleſſing: I ſhall re<g ref="char:EOLhyphen"/>maine</p>
+            <closer>
+               <signed>Your thankfull friend, <hi>W. C.</hi>
+               </signed>
+               <dateline>Bodman, <date>March 3. 1645. 8. in the Morning.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="9" facs="tcp:113471:6"/>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>IUſt now wee have intelligence, That the Prince, the Earle of <hi>Barkeſhire,</hi> the Lord <hi>Culpepper, Ned Hide,</hi> the Lord <hi>Capell, Fanſhaw,</hi> and others of qua<g ref="char:EOLhyphen"/>lity, were ſhip't yeſterday from <hi>Falmouth,</hi> for the I<g ref="char:EOLhyphen"/>ſland of <hi>Sill,</hi> as is ſuppoſed, and not for <hi>France;</hi> the Lord <hi>Hopton</hi> this day had a Rendezvouz of his Horſe at Saint <hi>Michill,</hi> all their Foot are at <hi>Truro,</hi> they give all for loſt: a ſhip of their beſt Horſe was laſt night caſt away, ſplitten on the Rocks.</p>
+            <closer>
+               <signed>Your Servant. <hi>W. C.</hi>
+               </signed>
+               <dateline>Bodman, <date>Tweſday, March 3. 12. at Noone.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="report_on_status_of_Army">
+            <pb n="10" facs="tcp:113471:7"/>
+            <p>ON Saturday Morning, <hi>March</hi> 7. inſtant, Ma<g ref="char:EOLhyphen"/>ſter <hi>W. Curtis,</hi> Meſſenger to Maſter <hi>Bedford.</hi> Scout-maſter Generall all to the Committee of both Kingdomes (having other things to deliver from the Army) was called into the Houſe of Commons, who being ask'd by Maſter Speaker (before the Houſe) <hi>what he had to ſay concerning the Army and where he left them, and when;</hi> Maſter; <hi>Curtis</hi> made this Anſwer.</p>
+            <q>
+               <p>
+                  <hi>Maſter Speaker,</hi>
+                  <lb/>
+This Honourable Houſe being already ſuffici<g ref="char:EOLhyphen"/>ently informed concerning the proceedings of the Army about <hi>Launceſton,</hi> I ſhall therefore omit that, and apply my ſelfe to acquaint you with what hath beene done ſince.</p>
+               <p>
+                  <hi>Maſter Speaker,</hi>
+                  <lb/>
+The Generals Excellencie advanced from <hi>Launce<g ref="char:EOLhyphen"/>ſtand</hi> on the laſt Lords Day, earely in the Morning, part of his Army being gone the night before, and had marched about 4 miles in the way to <hi>Bodman;</hi> On that morning there was a generall Rendezvouz on a Moore, by a Village called <hi>Atternoone,</hi> 6 Miles beyond <hi>Launceſton,</hi> 12 Miles on this ſide <hi>Bodman;</hi> from thence the whole Army marched in Batalia towards <hi>Bodman,</hi> and when wee came within 4 miles, wee diſcovered a Body of the Enemies upon a Hill
+<pb n="11" facs="tcp:113471:7"/>within three miles of <hi>Bodman,</hi> where they ſtood fa<g ref="char:EOLhyphen"/>cing us on a hill, till our Generall (who delights not in ſpending time, in facing them) drew out a good body off to charge them, and the Lieutenant Gene<g ref="char:EOLhyphen"/>rall, with another body of Horſe, march't preſently for the reliefe of two troops of Dragoons, who were then ingaged, and to prevent their breaking a<g ref="char:EOLhyphen"/>way Northward. But the Enemy finding our Army in ſo ready a poſture, they retreated into <hi>Bodman:</hi> Night being come, all our Army qu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tered in the fields, the Generall keeping the paſſage betweene <hi>Lauſton</hi> and <hi>Bodman,</hi> and the Lieutenant Generall at <hi>Warre</hi> Bridge, himſelfe lying in the field all night. The next morning, being Munday, the Generall marched towards <hi>Bodman,</hi> and had a Rendezvous within two mile of the Towne, where he received in<g ref="char:EOLhyphen"/>telligence that the Enemy had quit it.</p>
+               <p>
+                  <hi>M. Speaker,</hi> This Honourable Houſe, being well inform'd of that already by Letters, I forbeare to ſpeak any further of it; but yet I ſhall make hold to acquaint you with the diſcipline of our Army, and their carriage towards the County people, to whom the Generall gave a great ſatisfaction, in pub<g ref="char:EOLhyphen"/>liſhing ſeverall Proclamations; but more when they ſaw our Souldiers obedience to the ſame, they doe very honeſtly pay for what they have, which doth incourage the Country to provide for them, and makes them very joyfull of their company, and it is the reſolution of the General, &amp; Lieutenant General and all the ſuperiour Officers of the Army to conti<g ref="char:EOLhyphen"/>nue the ſame; and it doth much trouble our Army, when they be neceſſitated to take any other courſe
+<pb n="12" facs="tcp:113471:8"/>for want of money. They are very ready to obey commands, and to undergoe any hard-ſhip: And this I can aſſure you of, that they are very free from any Diviſions within themſelves, and in the room there<g ref="char:EOLhyphen"/>of, are poſſeſſed with love and union, courage and magnanimity, whereby out hands are ſtrengthned a<g ref="char:EOLhyphen"/>gainſt the Common Enemy.</p>
+            </q>
+            <p>The Houſe of Commons have Ordered, that twenty pound be immediately given to Maſter <hi>W. Curtis,</hi> by the Committee of the weſt.</p>
+         </div>
+         <div type="list_of_ships_from_Falmouth">
+            <p>There were three ſhips Lanched out from <hi>Fal<g ref="char:EOLhyphen"/>mouth.</hi>
+               <list>
+                  <item>1. There were in the firſt ſhip, Prince <hi>Charles</hi> himſelfe in perſon, the Earle of <hi>Berkeſhire,</hi> the Lord <hi>Culpepper,</hi> the Lord <hi>Capell,</hi> and Sir <hi>Edward Hide,</hi> and others; and they are either gone to the Iſle of <hi>Silly</hi> or <hi>Garnſey.</hi>
+                  </item>
+                  <item>2. In the next Ship was Sir <hi>Thomas Fanſhaw</hi> and divers others, and treaſure in both.</item>
+                  <item>3. In the third Ship were the Princes beſt Hor<g ref="char:EOLhyphen"/>ſes, and that Barke lighted upon a Rock, where it was ſplit.</item>
+               </list>
+            </p>
+         </div>
+         <div type="list_of_prisoners_and_spoils">
+            <pb n="13" facs="tcp:113471:8"/>
+            <list>
+               <head>A Liſt of the particulars, taken by Sir THOMAS FAIRFAX from the Lord <hi>Hopton,</hi> on Sunday and Mon<g ref="char:EOLhyphen"/>day, <hi>March</hi> firſt and ſecond, 1645.</head>
+               <item>
+                  <list>
+                     <head>Priſoners Taken.</head>
+                     <item>Lieut. Col. <hi>Rocarecke.</hi> 1. Captaine of Sir <hi>Iohn Greenvills</hi> Horſe, divers o<g ref="char:EOLhyphen"/>ther Officers and Souldi<g ref="char:EOLhyphen"/>ers. Many come in dayly, and ſubmit to us. Seven Officers came in when we fac'd them; ſaid, they were his Country-men, and o<g ref="char:EOLhyphen"/>thers would follow.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Taken alſo from the Enemy.</head>
+                     <item>
+                        <hi>Liſlithell,</hi> a ſtrong guard of the Enemies. Foure wane load of Ammuniti<g ref="char:EOLhyphen"/>on of the Lord <hi>Hoptons.</hi> Divers lay downe their Armes and goe home.</item>
+                     <item>Fortie Oxen.</item>
+                     <item>
+                        <hi>Salt-Aſh</hi> taken, and ſome Ammunition there, five pieces of Ordnance taken in <hi>Salt-Aſh.</hi>
+                     </item>
+                     <item>
+                        <hi>Bodman</hi> taken, and ſome Ammunition there: Two pieces of Ordnance taken in <hi>Bodman.</hi>
+                     </item>
+                     <item>
+                        <hi>Warre</hi> Bridge taken, a ſtrong Horſe guard.</item>
+                     <item>The Bridge beyond <hi>Bod<g ref="char:EOLhyphen"/>man</hi> taken.</item>
+                     <item>
+                        <hi>Temple-Guard</hi> taken, a place of their horſe guard, twelve priſoners, horſe and armes taken there.</item>
+                  </list>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
